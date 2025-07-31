@@ -10,7 +10,7 @@ Then, you use the bot (```!call 33612345678 snapchat```). The bot is gonna call 
 
 The API requests availables & working :
   - ```/call``` with POST DATA :
-    - ```to: theClientPhoneNumber```
+    - ```to: theClientPhoneNumb,zzer```
     - ```user: theUser```
     - ```service: theUsedService```
     - ```name: theNameOfTheUser```
